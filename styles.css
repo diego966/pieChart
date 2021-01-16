@@ -22,7 +22,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-}
+
 @font-face {font-family: "CCSignLanguageW00-Regular"; 
             src:url("//db.onlinewebfonts.com/t/8dfe1c7cd67123dd441e0c092428ce28.svg#CCSignLanguageW00-Regular") format("svg");
              }
@@ -46,7 +46,8 @@ g g:nth-of-type(-n+4){
 svg#donut-chart {
   display: block;
   margin: 0 auto;
-  width: 100%;
+  text-align:center;
+  width: 900px;
   height: 850px;
 }
 
