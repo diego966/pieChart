@@ -46,7 +46,6 @@ g g:nth-of-type(-n+4){
 svg#donut-chart {
   display: block;
   margin: 0 auto;
-  text-align:center;
   width: 900px;
   height: 850px;
 }
