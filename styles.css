@@ -80,3 +80,8 @@ textPath {
     font-weight: 700;
     text-shadow: 2px 2px black;
 }
+#header {
+  color: white;
+  text-shadow:5px 5px 5px green;
+  font-size: 95px;
+}
